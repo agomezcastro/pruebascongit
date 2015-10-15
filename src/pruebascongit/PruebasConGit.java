@@ -18,7 +18,7 @@ public class PruebasConGit {
     public static void main(String[] args) {
         // TODO code application logic here
         /* Esto es una prueba */
-        System.out.println("si lo lees lo has conseguido");
+        System.out.println("Hola Mundo");
     }
     
 }
